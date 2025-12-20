@@ -7,7 +7,7 @@
 				<Pages>
 					<Page>
 						<ReportItems>
-							<Textbox Name="TextBox1">
+						<Textbox Name="txtTitle">
 								<Top>0.383667cm</Top>
 								<Left>0cm</Left>
 								<Width>6.299212in</Width>
@@ -29,7 +29,7 @@
 								<ZIndex>1</ZIndex>
 								<Value>請求書</Value>
 							</Textbox>
-							<Textbox Name="TextBox2">
+						<Textbox Name="txtCustomerName">
 								<Top>3.939666cm</Top>
 								<Left>0cm</Left>
 								<Width>6.7381cm</Width>
@@ -60,7 +60,7 @@
 								<ZIndex>2</ZIndex>
 								<Value>=Fields!CustomerName.Value+" 御中"</Value>
 							</Textbox>
-							<Textbox Name="TextBox3">
+						<Textbox Name="txtGreeting">
 								<Top>5.0615cm</Top>
 								<Left>0cm</Left>
 								<Width>6.938cm</Width>
@@ -79,7 +79,7 @@
 								<ZIndex>3</ZIndex>
 								<Value>毎度ご利用ありがとうございます。下記の通りご請求申し上げます。</Value>
 							</Textbox>
-							<Textbox Name="TextBox4">
+						<Textbox Name="txtAmountLabel">
 								<Top>6.776cm</Top>
 								<Left>0cm</Left>
 								<Width>3.0221cm</Width>
@@ -99,7 +99,7 @@
 								<ZIndex>3</ZIndex>
 								<Value>ご請求金額</Value>
 							</Textbox>
-							<Textbox Name="TextBox5">
+						<Textbox Name="txtTotalAmount">
 								<Top>6.776cm</Top>
 								<Left>3.586574cm</Left>
 								<Width>3.1515cm</Width>
@@ -122,7 +122,7 @@
 								<ZIndex>3</ZIndex>
 								<Value>=Sum(Fields!UnitPrice.Value*Fields!Number.Value)</Value>
 							</Textbox>
-							<Line Name="Line1">
+						<Line Name="lineSeparator">
 								<Height>0cm</Height>
 								<Left>0cm</Left>
 								<Style>
@@ -135,7 +135,7 @@
 								<Width>6.815667cm</Width>
 								<ZIndex>4</ZIndex>
 							</Line>
-							<Textbox Name="TextBox6">
+						<Textbox Name="txtCompanyName">
 								<Top>3.939666cm</Top>
 								<Left>7.566388cm</Left>
 								<Width>5.668cm</Width>
@@ -155,7 +155,7 @@
 								<ZIndex>3</ZIndex>
 								<Value>サンプルデータ株式会社</Value>
 							</Textbox>
-							<Textbox Name="TextBox7">
+						<Textbox Name="txtCompanyAddress">
 								<Top>4.892166cm</Top>
 								<Left>7.566388cm</Left>
 								<Width>5.2681cm</Width>
@@ -177,7 +177,7 @@
 仙台市青葉区中央9－99－9
 仙台駅前ビル 15F</Value>
 							</Textbox>
-							<Textbox Name="TextBox8">
+						<Textbox Name="txtCompanyContact">
 								<Top>6.973566cm</Top>
 								<Left>7.566388cm</Left>
 								<Width>5.2681cm</Width>
@@ -197,8 +197,8 @@
 								<Value>TEL：022-999-1234
 FAX：022-999-9876</Value>
 							</Textbox>
-							<Image Name="Image1">
-								<DataElementName>Image1</DataElementName>
+						<Image Name="imgCompanyLogo">
+							<DataElementName>imgCompanyLogo</DataElementName>
 								<Top>3.939666cm</Top>
 								<Left>13.22917cm</Left>
 								<Width>2.6247cm</Width>
@@ -211,7 +211,7 @@ FAX：022-999-9876</Value>
 								<Source>Embedded</Source>
 								<Value>image</Value>
 							</Image>
-							<Table Name="Table1">
+						<Table Name="tblInvoiceDetails">
 								<Top>8.448167cm</Top>
 								<Left>0cm</Left>
 								<Width>15.90117cm</Width>
@@ -234,7 +234,7 @@ FAX：022-999-9876</Value>
 											<TableCells>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox9">
+														<Textbox Name="txtHeaderSlipNo">
 															<Style>
 																<BackgroundColor>#697683</BackgroundColor>
 																<Color>#efedea</Color>
@@ -258,7 +258,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox10">
+														<Textbox Name="txtHeaderDate">
 															<Style>
 																<BackgroundColor>#697683</BackgroundColor>
 																<Color>#efedea</Color>
@@ -282,7 +282,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox11">
+														<Textbox Name="txtHeaderProducts">
 															<Style>
 																<BackgroundColor>#697683</BackgroundColor>
 																<Color>#efedea</Color>
@@ -306,7 +306,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox19">
+														<Textbox Name="txtHeaderUnitPrice">
 															<Style>
 																<BackgroundColor>#697683</BackgroundColor>
 																<Color>#efedea</Color>
@@ -330,7 +330,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox22">
+														<Textbox Name="txtHeaderNumber">
 															<Style>
 																<BackgroundColor>#697683</BackgroundColor>
 																<Color>#efedea</Color>
@@ -354,7 +354,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox25">
+														<Textbox Name="txtHeaderPrice">
 															<Style>
 																<BackgroundColor>#697683</BackgroundColor>
 																<Color>#efedea</Color>
@@ -387,7 +387,7 @@ FAX：022-999-9876</Value>
 											<TableCells>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox12">
+														<Textbox Name="txtDetailSlipNo">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
@@ -411,7 +411,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox13">
+														<Textbox Name="txtDetailDate">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
@@ -436,7 +436,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox14">
+														<Textbox Name="txtDetailProducts">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
@@ -460,7 +460,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox20">
+														<Textbox Name="txtDetailUnitPrice">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
@@ -486,7 +486,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox23">
+														<Textbox Name="txtDetailNumber">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
@@ -512,7 +512,7 @@ FAX：022-999-9876</Value>
 												</TableCell>
 												<TableCell>
 													<ReportItems>
-														<Textbox Name="TextBox26">
+														<Textbox Name="txtDetailPrice">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
 																<Color>#505050</Color>
@@ -566,7 +566,7 @@ FAX：022-999-9876</Value>
 									</TableColumn>
 								</TableColumns>
 							</Table>
-							<Textbox Name="TextBox18">
+						<Textbox Name="txtBankInfo">
 								<Top>21.844cm</Top>
 								<Left>0cm</Left>
 								<Width>15.8962cm</Width>
@@ -595,7 +595,7 @@ FAX：022-999-9876</Value>
 								<Value>お振込先：
 グレープ銀行 仙台支店 普通口座 1234567 サンプルデータ（カ</Value>
 							</Textbox>
-							<Textbox Name="TextBox15">
+						<Textbox Name="txtBillNo">
 								<Top>2.899833cm</Top>
 								<Left>10.45633cm</Left>
 								<Width>5.4398cm</Width>
