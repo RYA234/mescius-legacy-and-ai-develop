@@ -4,4 +4,5 @@
   </Folder>
   <Project Path="ActiveReport/ActiveReport.vbproj" Id="d09d375a-f826-41c4-ab3c-b0dbdfe324cb" />
   <Project Path="InputMan/InputManWin12Demo_NetFW.vbproj" Id="8fbdc6cc-5e8a-43d5-a1bd-79a951661ebf" />
+  <Project Path="E2ETests/E2ETests.vbproj" Id="a1b2c3d4-e5f6-4a5b-8c9d-0e1f2a3b4c5d" />
 </Solution>
