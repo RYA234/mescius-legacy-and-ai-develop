@@ -3,4 +3,5 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="ActiveReport/ActiveReport.vbproj" Id="d09d375a-f826-41c4-ab3c-b0dbdfe324cb" />
+  <Project Path="InputMan/InputManWin12Demo_NetFW.vbproj" Id="8fbdc6cc-5e8a-43d5-a1bd-79a951661ebf" />
 </Solution>
