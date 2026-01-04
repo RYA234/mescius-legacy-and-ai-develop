@@ -13,12 +13,12 @@
 								<Width>6.299212in</Width>
 								<Height>2.3495cm</Height>
 								<Style>
-									<BackgroundColor>#FFFFFF</BackgroundColor>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
-									<FontSize>18pt</FontSize>
+									<BackgroundColor>#697683</BackgroundColor>
+									<Color>#efedea</Color>
+									<FontFamily>IPAゴシック</FontFamily>
+									<FontSize>36pt</FontSize>
 									<FontStyle>Normal</FontStyle>
-									<FontWeight>700</FontWeight>
+									<FontWeight>400</FontWeight>
 									<PaddingBottom>2pt</PaddingBottom>
 									<PaddingLeft>2pt</PaddingLeft>
 									<PaddingRight>2pt</PaddingRight>
@@ -35,8 +35,8 @@
 								<Width>6.7381cm</Width>
 								<Height>0.75cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>14pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
@@ -47,7 +47,7 @@
 									<TextAlign>Left</TextAlign>
 									<VerticalAlign>Middle</VerticalAlign>
 									<BorderColor>
-										<Default>#000000</Default>
+										<Default>#697683</Default>
 									</BorderColor>
 									<BorderStyle>
 										<Default>None</Default>
@@ -66,8 +66,8 @@
 								<Width>6.938cm</Width>
 								<Height>1.4393cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>12pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
@@ -85,8 +85,8 @@
 								<Width>3.0221cm</Width>
 								<Height>0.9525cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>16pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
@@ -105,8 +105,8 @@
 								<Width>3.1515cm</Width>
 								<Height>0.9525cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>14pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
@@ -126,9 +126,9 @@
 								<Height>0cm</Height>
 								<Left>0cm</Left>
 								<Style>
-									<FontFamily>MS ゴシック</FontFamily>
+									<FontFamily>メイリオ</FontFamily>
 									<BorderColor>
-										<Default>#000000</Default>
+										<Default>#697683</Default>
 									</BorderColor>
 								</Style>
 								<Top>7.725833cm</Top>
@@ -141,8 +141,8 @@
 								<Width>5.668cm</Width>
 								<Height>0.9525cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>14pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
@@ -161,8 +161,8 @@
 								<Width>5.2681cm</Width>
 								<Height>2.0814cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>12pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
@@ -183,8 +183,8 @@
 								<Width>5.2681cm</Width>
 								<Height>1.0113cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>12pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
@@ -204,7 +204,7 @@ FAX：022-999-9876</Value>
 								<Width>2.6247cm</Width>
 								<Height>2.5612cm</Height>
 								<Style>
-									<FontFamily>MS ゴシック</FontFamily>
+									<FontFamily>メイリオ</FontFamily>
 								</Style>
 								<ZIndex>5</ZIndex>
 								<Sizing>Fit</Sizing>
@@ -217,9 +217,9 @@ FAX：022-999-9876</Value>
 								<Width>15.90117cm</Width>
 								<Height>1.862667cm</Height>
 								<Style>
-									<FontFamily>MS ゴシック</FontFamily>
+									<FontFamily>IPAゴシック</FontFamily>
 									<BorderColor>
-										<Default>#000000</Default>
+										<Default>#697683</Default>
 									</BorderColor>
 									<BorderStyle>
 										<Default>None</Default>
@@ -236,9 +236,9 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="txtHeaderSlipNo">
 															<Style>
-																<BackgroundColor>#FFFFFF</BackgroundColor>
-																<Color>#000000</Color>
-																<FontFamily>MS ゴシック</FontFamily>
+																<BackgroundColor>#697683</BackgroundColor>
+																<Color>#efedea</Color>
+																<FontFamily>IPAゴシック</FontFamily>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -246,7 +246,7 @@ FAX：022-999-9876</Value>
 																<TextAlign>Center</TextAlign>
 																<VerticalAlign>Middle</VerticalAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -260,9 +260,9 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="txtHeaderDate">
 															<Style>
-																<BackgroundColor>#FFFFFF</BackgroundColor>
-																<Color>#000000</Color>
-																<FontFamily>MS ゴシック</FontFamily>
+																<BackgroundColor>#697683</BackgroundColor>
+																<Color>#efedea</Color>
+																<FontFamily>IPAゴシック</FontFamily>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -270,7 +270,7 @@ FAX：022-999-9876</Value>
 																<TextAlign>Center</TextAlign>
 																<VerticalAlign>Middle</VerticalAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -284,9 +284,9 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="txtHeaderProducts">
 															<Style>
-																<BackgroundColor>#FFFFFF</BackgroundColor>
-																<Color>#000000</Color>
-																<FontFamily>MS ゴシック</FontFamily>
+																<BackgroundColor>#697683</BackgroundColor>
+																<Color>#efedea</Color>
+																<FontFamily>IPAゴシック</FontFamily>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -294,7 +294,7 @@ FAX：022-999-9876</Value>
 																<TextAlign>Center</TextAlign>
 																<VerticalAlign>Middle</VerticalAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -308,9 +308,9 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="txtHeaderUnitPrice">
 															<Style>
-																<BackgroundColor>#FFFFFF</BackgroundColor>
-																<Color>#000000</Color>
-																<FontFamily>MS ゴシック</FontFamily>
+																<BackgroundColor>#697683</BackgroundColor>
+																<Color>#efedea</Color>
+																<FontFamily>IPAゴシック</FontFamily>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -318,7 +318,7 @@ FAX：022-999-9876</Value>
 																<TextAlign>Center</TextAlign>
 																<VerticalAlign>Middle</VerticalAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -332,9 +332,9 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="txtHeaderNumber">
 															<Style>
-																<BackgroundColor>#FFFFFF</BackgroundColor>
-																<Color>#000000</Color>
-																<FontFamily>MS ゴシック</FontFamily>
+																<BackgroundColor>#697683</BackgroundColor>
+																<Color>#efedea</Color>
+																<FontFamily>IPAゴシック</FontFamily>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -342,7 +342,7 @@ FAX：022-999-9876</Value>
 																<TextAlign>Center</TextAlign>
 																<VerticalAlign>Middle</VerticalAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -356,9 +356,9 @@ FAX：022-999-9876</Value>
 													<ReportItems>
 														<Textbox Name="txtHeaderPrice">
 															<Style>
-																<BackgroundColor>#FFFFFF</BackgroundColor>
-																<Color>#000000</Color>
-																<FontFamily>MS ゴシック</FontFamily>
+																<BackgroundColor>#697683</BackgroundColor>
+																<Color>#efedea</Color>
+																<FontFamily>IPAゴシック</FontFamily>
 																<PaddingBottom>2pt</PaddingBottom>
 																<PaddingLeft>2pt</PaddingLeft>
 																<PaddingRight>2pt</PaddingRight>
@@ -366,7 +366,7 @@ FAX：022-999-9876</Value>
 																<TextAlign>Center</TextAlign>
 																<VerticalAlign>Middle</VerticalAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -390,7 +390,7 @@ FAX：022-999-9876</Value>
 														<Textbox Name="txtDetailSlipNo">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
-																<Color>#000000</Color>
+																<Color>#505050</Color>
 																<Language>ja-JP</Language>
 																<NumeralLanguage>ja-JP</NumeralLanguage>
 																<PaddingBottom>2pt</PaddingBottom>
@@ -398,7 +398,7 @@ FAX：022-999-9876</Value>
 																<PaddingRight>2pt</PaddingRight>
 																<PaddingTop>2pt</PaddingTop>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -414,7 +414,7 @@ FAX：022-999-9876</Value>
 														<Textbox Name="txtDetailDate">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
-																<Color>#000000</Color>
+																<Color>#505050</Color>
 																<Format>d</Format>
 																<Language>ja-JP</Language>
 																<NumeralLanguage>ja-JP</NumeralLanguage>
@@ -423,7 +423,7 @@ FAX：022-999-9876</Value>
 																<PaddingRight>2pt</PaddingRight>
 																<PaddingTop>2pt</PaddingTop>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -439,7 +439,7 @@ FAX：022-999-9876</Value>
 														<Textbox Name="txtDetailProducts">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
-																<Color>#000000</Color>
+																<Color>#505050</Color>
 																<Language>ja-JP</Language>
 																<NumeralLanguage>ja-JP</NumeralLanguage>
 																<PaddingBottom>2pt</PaddingBottom>
@@ -447,7 +447,7 @@ FAX：022-999-9876</Value>
 																<PaddingRight>2pt</PaddingRight>
 																<PaddingTop>2pt</PaddingTop>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -463,7 +463,7 @@ FAX：022-999-9876</Value>
 														<Textbox Name="txtDetailUnitPrice">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
-																<Color>#000000</Color>
+																<Color>#505050</Color>
 																<Format>c2</Format>
 																<Language>ja-JP</Language>
 																<NumeralLanguage>ja-JP</NumeralLanguage>
@@ -473,7 +473,7 @@ FAX：022-999-9876</Value>
 																<PaddingTop>2pt</PaddingTop>
 																<TextAlign>Right</TextAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -489,7 +489,7 @@ FAX：022-999-9876</Value>
 														<Textbox Name="txtDetailNumber">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
-																<Color>#000000</Color>
+																<Color>#505050</Color>
 																<Format>d</Format>
 																<Language>ja-JP</Language>
 																<NumeralLanguage>ja-JP</NumeralLanguage>
@@ -499,7 +499,7 @@ FAX：022-999-9876</Value>
 																<PaddingTop>2pt</PaddingTop>
 																<TextAlign>Right</TextAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -515,7 +515,7 @@ FAX：022-999-9876</Value>
 														<Textbox Name="txtDetailPrice">
 															<Style>
 																<BackgroundColor>=IIF((RowNumber() Mod 2), "Transparent","#E6E2DD")</BackgroundColor>
-																<Color>#000000</Color>
+																<Color>#505050</Color>
 																<Format>c</Format>
 																<Language>ja-JP</Language>
 																<NumeralLanguage>ja-JP</NumeralLanguage>
@@ -525,7 +525,7 @@ FAX：022-999-9876</Value>
 																<PaddingTop>2pt</PaddingTop>
 																<TextAlign>Right</TextAlign>
 																<BorderColor>
-																	<Default>#000000</Default>
+																	<Default>#697683</Default>
 																</BorderColor>
 																<BorderStyle>
 																	<Default>Solid</Default>
@@ -572,8 +572,8 @@ FAX：022-999-9876</Value>
 								<Width>15.8962cm</Width>
 								<Height>2.7305cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>10pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
@@ -582,7 +582,7 @@ FAX：022-999-9876</Value>
 									<PaddingRight>2pt</PaddingRight>
 									<PaddingTop>2pt</PaddingTop>
 									<BorderColor>
-										<Default>#000000</Default>
+										<Default>#505050</Default>
 									</BorderColor>
 									<BorderStyle>
 										<Default>Solid</Default>
@@ -601,8 +601,8 @@ FAX：022-999-9876</Value>
 								<Width>5.4398cm</Width>
 								<Height>0.75cm</Height>
 								<Style>
-									<Color>#000000</Color>
-									<FontFamily>MS ゴシック</FontFamily>
+									<Color>#505050</Color>
+									<FontFamily>IPAゴシック</FontFamily>
 									<FontSize>10pt</FontSize>
 									<FontStyle>Normal</FontStyle>
 									<FontWeight>400</FontWeight>
